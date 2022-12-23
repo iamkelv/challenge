@@ -2,7 +2,7 @@
 
 <span style="font-size: 16px;">Complete a partially completed React movie directory application.</span> Certain core React functionalities have already been implemented. Complete the application as shown below in order to pass all the unit tests.
 
-![](https://hrcdn.net/s3_pub/istreet-assets/QP-nMkLcgVGyNqz4vKZCtw/favorite-movie-directory.gif)
+
 
 The application has 3 components:
 
